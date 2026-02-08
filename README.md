@@ -1,5 +1,3 @@
-Random Number Generator & Statistical Analysis — README
-
 Project: Random Number Generator and Statistical Analysis \
 Author: Emil Mirzazada \
 Course: Object Oriented Analysis & Design \
